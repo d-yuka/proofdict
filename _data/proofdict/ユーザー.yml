@@ -1,0 +1,10 @@
+id: 01HQQ9K2XJEY9ZF8Y1T56XN5WB
+description: ''
+expected: ユーザー
+patterns:
+  - ユーザ
+allows: []
+specs:
+  - from: ユーザ
+    to: ユーザー
+tags: []
